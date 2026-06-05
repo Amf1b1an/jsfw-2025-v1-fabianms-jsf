@@ -55,7 +55,7 @@ export default async function HomePage() {
             </h2>
             <Link
               href="/catalogue"
-              className="bg-cyan-700 text-white px-4 py-1 rounded font-bold hover:bg-sky-950 transition"
+              className="bg-cyan-700 text-white px-4 py-1 font-bold hover:bg-sky-950 transition"
             >
               See All
             </Link>
